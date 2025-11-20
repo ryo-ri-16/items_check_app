@@ -57,5 +57,5 @@ SPA系のページ構造
 - デプロイ先
   Heroku / Render
 - 使用予定のライブラリ
-  bcrypt(認証), image_processing(実物の画像が使いたい人のため), フリーアイコンのサイト, 天気API, kaminari(一カテゴリに多くリストを使う人なら), ransack(検索)
+  bcrypt(認証), image_processing(実物の画像が使いたい人のため), フリーアイコンのサイト, 天気API,LINEAPI,kaminari(一カテゴリに多くリストを使う人なら), ransack(検索)
   jbuilder, rack-cors, react-icons, tailwindcssなど
