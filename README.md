@@ -59,3 +59,6 @@ SPA系のページ構造
 - 使用予定のライブラリ
   bcrypt(認証), image_processing(実物の画像が使いたい人のため), フリーアイコンのサイト, 天気API,LINEAPI,kaminari(一カテゴリに多くリストを使う人なら), ransack(検索)
   jbuilder, rack-cors, react-icons, tailwindcssなど
+
+画面遷移図
+https://www.figma.com/design/BtTUDCgpcNnsFzfSp8xQ0H/%E6%8C%81%E3%81%A1%E7%89%A9%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%82%A2%E3%83%97%E3%83%AA?node-id=0-1&p=f&t=mxPNo4xQzY8ipPNF-0
